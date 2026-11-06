@@ -1,6 +1,3 @@
-# cloud-task-manager-api
-A cloud-based task management REST API developed with Flask and PostgreSQL, containerized using Docker, and deployed on AWS EC2 with Nginx and HTTPS//FlaskとPostgreSQLを使用したタスク管理REST APIです。Dockerでコンテナ化し、AWS EC2上にデプロイします。NginxによるリバースプロキシとHTTPS通信を構成します。
-
 # Cloud Task Manager API
 
 A cloud-hosted REST API built with Python Flask and PostgreSQL, containerized with Docker Compose, and deployed on AWS EC2 using Nginx and HTTPS.
